@@ -1,6 +1,6 @@
 #Game
 
-Universidade Federal do Pampa - Alegrete Engenharia de Software 
+Universidade Federal do Pampa - Alegrete - Engenharia de Software 
 
 Práticas de Programação
 
